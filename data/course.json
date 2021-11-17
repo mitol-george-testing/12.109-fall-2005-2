@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d4e01b3-4b4c-2a7c-d029-1908830f1e2d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Petrology",
+  "course_description": "This undergraduate petrology course surveys the distribution, chemical composition, and mineral associations in rocks of the earth's crust and upper mantle, and establishes its relation to tectonic environment. The emphasis of the course is on the use of chemistry and physics to interpret rock forming processes.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.109",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
